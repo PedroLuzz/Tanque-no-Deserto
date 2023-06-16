@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638225233046875323
-    m_Hash: 4007760050
+      ticks: 638225393399795899
+    m_Hash: 2109922507
   m_LockFileStatus:
     m_FilePath: F:/Unity Projects/Tanque no Deserto 2/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638225233262896388
-    m_Hash: 1842388894
+      ticks: 638225393399815834
+    m_Hash: 2582090329
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,6 +22,85 @@ m_LocalPackages:
 m_ProjectPath: F:/Unity Projects/Tanque no Deserto 2/Packages
 m_EditorVersion: 2023.1.0b10 (4d1d37b14308)
 m_ResolvedPackages:
+- packageId: com.unity.ai.navigation@1.1.4
+  testable: 0
+  isDirectDependency: 1
+  version: 1.1.4
+  source: 1
+  resolvedPath: F:\Unity Projects\Tanque no Deserto 2\Library\PackageCache\com.unity.ai.navigation@1.1.4
+  assetPath: Packages/com.unity.ai.navigation
+  name: com.unity.ai.navigation
+  displayName: AI Navigation
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: High-level NavMesh components for building and using NavMeshes at
+    runtime and at edit time.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-exp.1
+    - 1.0.0-exp.2
+    - 1.0.0-exp.3
+    - 1.0.0-exp.4
+    - 1.1.0-pre.1
+    - 1.1.0-pre.2
+    - 1.1.1
+    - 1.1.3
+    - 1.1.4
+    - 2.0.0-pre.3
+    compatible:
+    - 1.1.1
+    - 1.1.3
+    - 1.1.4
+    recommended: 1.1.4
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.ai
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.ai
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 0
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638224218100000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.ai.navigation@1.1/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.ai.navigation.git
+    revision: 3e8d494400ccac6cbd90ee1b474470f4b1299bfa
+    path: 
+  unityLifecycle:
+    version: 1.1.1
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Fixed\n* Published the missing API reference documentation
+    for the new properties that were made available in 1.1.0"}'
+  assetStore:
+    productId: 
 - packageId: com.unity.collab-proxy@2.0.1
   testable: 0
   isDirectDependency: 1

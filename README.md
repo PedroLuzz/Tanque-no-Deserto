@@ -1,10 +1,10 @@
-# Tanque no Deserto (Movimentação com Waypoints)
+# Tanque no Deserto (Movimentação com NavMesh)
 
-Este é um projeto para demonstrar como objetos em jogo agem seguindo as regras de movimentaçção através de waypoints desenvolvido em Unity. Este projeto demonstra a movimentação de um tanque se movendo pelo mapa.
+Este é um projeto para demonstrar como objetos em jogo agem seguindo as regras de movimentaçção através de Navmesh desenvolvido em Unity. Este projeto demonstra a movimentação de um tanque se movendo pelo mapa.
 
 ## Funcionalidades Principais
 
-- Movimentação para 3 pontos pre-definidos através de waypoints.
+- Movimentação para livre pelo mapa através do click do mouse, colisão com objetos feita utilizando o metodo bake do NavMesh.
 
 ## Pré-requisitos
 
