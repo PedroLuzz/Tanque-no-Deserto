@@ -2401,7 +2401,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4c0363590df178a438e5b67f3620367e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
+  speed: 5
   wpManager: {fileID: 356389096}
   heliportoButton: {fileID: 93788174}
   ruinasButton: {fileID: 2061237614}
