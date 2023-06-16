@@ -1,2 +1,36 @@
-# Tanque-no-Deserto
- Projeto para demontrar movimentacao atraves de waypoints
+# Tanque no Deserto (Movimentação com Waypoints)
+
+Este é um projeto para demonstrar como objetos em jogo agem seguindo as regras de movimentaçção através de waypoints desenvolvido em Unity. Este projeto demonstra a movimentação de um tanque se movendo pelo mapa.
+
+## Funcionalidades Principais
+
+- Movimentação para 3 pontos pre-definidos através de waypoints.
+
+## Pré-requisitos
+
+- Unity 20XX.XX ou superior.
+
+## Como Usar
+
+1. Clone este repositório em sua máquina local.
+2. Abra o Unity e navegue até a pasta do projeto.
+3. Abra a cena principal do jogo.
+5. Execute o jogo no editor ou construa o jogo para a plataforma desejada.
+
+## Contribuições
+
+Contribuições são bem-vindas! Se você quiser contribuir com melhorias para o projeto, siga as etapas abaixo:
+
+1. Faça um fork do repositório.
+2. Crie um branch para suas alterações: `git checkout -b minha-contribuicao`.
+3. Faça as alterações desejadas e faça commit: `git commit -m 'Minha contribuição'`.
+4. Envie suas alterações para o branch remoto: `git push origin minha-contribuicao`.
+5. Abra um Pull Request no repositório original.
+
+## Contato
+
+- Email: pedrohenriqueluz@gmail.com
+- Twitter: [@seuperfil](https://twitter.com/seuperfil)
+- LinkedIn: [Seu Nome](https://www.linkedin.com/in/seunome/)
+
+Sinta-se à vontade para atualizar ou modificar este arquivo README de acordo com as necessidades específicas do seu projeto. Ele serve como um guia para os usuários entenderem o objetivo do projeto, como usá-lo e como contribuir para o seu desenvolvimento.
